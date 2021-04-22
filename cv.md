@@ -2,7 +2,9 @@
 
 ## Contact Info
 
-
+* email: **<ios.factory.dev@gmail.com>**
+* discord: **Федор#3514**
+* viber: **+375-29-685-31-44**
 
 ## Summary
 
