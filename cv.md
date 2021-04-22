@@ -12,7 +12,12 @@ I want to become an iOS developer, because i believe that Apple is the greatest 
 
 ## Skills
 
-
+* retail banking
+* corpo banking
+* support
+* testing
+* BA
+* team management
 
 ## Code examples
 
