@@ -8,7 +8,7 @@
 
 ## Summary
 
-
+I want to become an iOS developer, because i believe that Apple is the greatest company in the world!!!
 
 ## Skills
 
